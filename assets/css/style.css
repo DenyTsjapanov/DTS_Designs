@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: Helvetica!important, sans-serif;
 }
 
 .navbar-light .navbar-brand {
@@ -40,18 +40,19 @@ body {
     }
 
 .features-icons {
-    background-color: #f8f9fa!important;
-    padding-top: 7em;
-    padding-bottom: 7em;
+    background-color: ##f4f4f4!important;
+    padding-top: 100px!important;
+    padding-bottom: 100px!important;
 }
 
-.showcase .showcase-img {
-    min-height: 20rem;
-    background-size: cover;
+
+.pricing {
+    background-color: #E6AC55;
+    padding-top: 50px!important;
+    padding-bottom: 50px!important;
 }
 
-.showcase .showcase-text {
-    padding: 3rem;
-    font-family: Helvetica, sans-serif;
-    color: #17a2b8;
+.tier-header {
+    color: #17a2b8!important;
+    font-weight: bold;
 }
