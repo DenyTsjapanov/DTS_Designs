@@ -5,6 +5,7 @@ body {
 .navbar-light .navbar-brand {
     color: #17a2b8;
     font-size: 40px;
+    padding: initial;
 }
 
 .lead {
@@ -13,33 +14,32 @@ body {
 
 .navbar-nav {
     text-transform: uppercase;
-    color: #17a2b8;
 }
+
 
 .company-brand {
     font-weight: bold;
 }
 
-.jumbotron {
-    background-color: #541234;
+.bg-primary {
+    background-color: #541234!important;
     color: white;
-    margin: 0;
 }
 
 .bg-light {
     background-color: #ffffff!important;
 }
-.features-icon {
+.services-icon {
         font-size: 50px;
-        color: #F57646;
+        color: rgb(163, 64, 65);
         margin-bottom: 15px;
     }
 
 .feature-header {
-        color: #064567;
+        color: #212529;
     }
 
-.features-icons {
+.services-icons {
     background-color: ##f4f4f4!important;
     padding-top: 100px!important;
     padding-bottom: 100px!important;
@@ -55,4 +55,22 @@ body {
 .tier-header {
     color: #17a2b8!important;
     font-weight: bold;
+}
+
+.contact-section {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-color: #f4f4f4;
+}
+
+
+.company-brand-name {
+    color: #17a2b8;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.contact-details {
+    color: #A5929C;
+    font-weight: lighter;
 }
