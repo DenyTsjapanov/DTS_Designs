@@ -1,0 +1,40 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+}
+
+.navbar-light .navbar-brand {
+    color: #17a2b8;
+    font-size: 40px;
+}
+
+.lead {
+    color: #A5929C;
+}
+
+.navbar-nav {
+    text-transform: uppercase;
+    color: #17a2b8;
+}
+
+.company-brand {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: #541234;
+    color: white;
+    margin-bottom: 75px;
+}
+
+.bg-light {
+    background-color: #ffffff!important;
+}
+.features-icon {
+        font-size: 50px;
+        color: #F57646;
+        margin-bottom: 15px;
+    }
+
+    .feature-header {
+        color: #064567;
+    }
