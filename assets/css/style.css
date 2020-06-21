@@ -1,5 +1,5 @@
 body {
-    font-family: 'Helvetica', sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 .navbar-light .navbar-brand {
@@ -23,7 +23,7 @@ body {
 .jumbotron {
     background-color: #541234;
     color: white;
-    margin-bottom: 75px;
+    margin: 0;
 }
 
 .bg-light {
@@ -35,6 +35,23 @@ body {
         margin-bottom: 15px;
     }
 
-    .feature-header {
+.feature-header {
         color: #064567;
     }
+
+.features-icons {
+    background-color: #f8f9fa!important;
+    padding-top: 7em;
+    padding-bottom: 7em;
+}
+
+.showcase .showcase-img {
+    min-height: 20rem;
+    background-size: cover;
+}
+
+.showcase .showcase-text {
+    padding: 3rem;
+    font-family: Helvetica, sans-serif;
+    color: #17a2b8;
+}
