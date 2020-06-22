@@ -1,6 +1,8 @@
 html {
     scroll-behavior: smooth;
-}
+    scroll-padding-top: 70px; /* https://css-tricks.com/fixed-headers-on-page-links-and-overlapping-content-oh-my/ 
+                                fixed my problem of the fixed navbar overlapping a portion of the section*/
+  }
 
 body {
     font-family: Helvetica!important, sans-serif;
