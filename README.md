@@ -64,5 +64,7 @@ Balsamiq:            A great little tool to create mockups for a website. The en
 <br>
 W3Schools:           W3Schools is a great way to find out answers to all questions related to HTML or CSS. Each time I was stuck, I was able to find a solution with their help.
 <br>
-Bootstrap:           Basically every design feature is thanks to Bootstrap. StartBootstrap is a great feature if you want to get some ideas for a website structure of design features. 
+Bootstrap:           Basically every design feature is thanks to Bootstrap. StartBootstrap is a great feature if you want to get some ideas for a website structure of design features.
+<br>
+CSS Tricks:          I was struggling with the navbar covering up a portion of my section when clicking on the navigation links. I found a great workaround on CSS tricks that solved this problem. 
 
