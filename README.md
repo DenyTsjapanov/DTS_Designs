@@ -46,6 +46,7 @@ Google Fonts: This was used for implementing fonts to the site.
 
 ### Software
 VisualStudioCode:   During the course, we have been using GitPod. However, as much as I wanted to like it, I found it to be buggy and at times too frustrating. Thus, I switched to VSCode, which made life a bit easier. Installing Git and linking GitHub was quite a challenge, but it worked and thus Git and GitHub was sued for uploading the workspace anf version control.
+<br>
 GitHub:   Version control and publishing the website.
 
 ## Testing
