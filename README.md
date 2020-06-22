@@ -1,6 +1,6 @@
-# Project_1_Code_Institute
+# DTS_Designs
 
-https://denytsjapanov.github.io/Project_1_Code_Institute/
+https://denytsjapanov.github.io/DTS_Designs/
 
 
 ## Description
