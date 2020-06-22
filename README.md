@@ -47,12 +47,15 @@ Testing was done mainly manually. As I was writing code in VSCode, the index.htm
 
 ## Deployment
 Since I decided to leave GitPod, I fully commited to VSCode. I then installed Git (and Gitbash) to have version control working on VSCode. This isntallation made it easier than entering commands in the terminal. After installing Git and linking to my GitHub account, I was able to easily commit version to GitHub, with only one step remaining: git push. This I did through the terminal by simply adding "git push". After all changes where updated in my GitHub repo, I then decided to publish my website. This is done my going to the "Settings" section of my repo and scrolling down. NB. All repos created from VSCode directly were made private. I first had to make these public, prior to publishing the website.
-
+<br>
 To run the code locally, download the repo to your local machine, making sure that all files are present and accessible. Then run "index.html".
 
 ## Credits
 Reuben Ferrante:     During the two short calls we had, Mr. Ferrante has been extremely supportive in helping me understand some of the matters I was have difficulties with.
+<br>
 Balsamiq:            A great little tool to create mockups for a website. The enclosed pictures are a result of their wireframes.
+<br>
 W3Schools:           W3Schools is a great way to find out answers to all questions related to HTML or CSS. Each time I was stuck, I was able to find a solution with their help.
+<br>
 Bootstrap:           Basically every design feature is thanks to Bootstrap. StartBootstrap is a great feature if you want to get some ideas for a website structure of design features. 
 
