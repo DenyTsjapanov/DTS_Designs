@@ -82,6 +82,11 @@ html {
     font-size: x-large;
 }
 
+.col-lg-4 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 /*----------Contact----------*/
 
 .contact-section {
