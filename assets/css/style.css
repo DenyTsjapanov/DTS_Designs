@@ -16,6 +16,9 @@ body {
     text-transform: uppercase;
 }
 
+.mb-5 {
+    margin-bottom: 0!important;
+}
 
 .company-brand {
     font-weight: bold;
@@ -40,7 +43,7 @@ body {
     }
 
 .services-icons {
-    background-color: ##f4f4f4!important;
+    background-color: #f4f4f4!important;
     padding-top: 100px!important;
     padding-bottom: 100px!important;
 }
