@@ -1,6 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: Helvetica!important, sans-serif;
 }
+
+/*----------Navigation----------*/
 
 .navbar-light .navbar-brand {
     color: #17a2b8;
@@ -8,20 +14,24 @@ body {
     padding: initial;
 }
 
-.lead {
-    color: #A5929C;
-}
-
 .navbar-nav {
     text-transform: uppercase;
 }
 
-.mb-5 {
-    margin-bottom: 0!important;
-}
-
 .company-brand {
     font-weight: bold;
+}
+
+/*----------Header----------*/
+
+.header-par {
+    color: #A5929C;
+    font-weight: lighter;
+    padding-bottom: 20px;
+}
+
+.mb-5 {
+    margin-bottom: 0!important;
 }
 
 .bg-primary {
@@ -29,18 +39,24 @@ body {
     color: white;
 }
 
+/*----------Services----------*/
+
 .bg-light {
     background-color: #ffffff!important;
 }
 .services-icon {
         font-size: 50px;
-        color: rgb(163, 64, 65);
+        color: #CA054D;
         margin-bottom: 15px;
     }
 
-.feature-header {
+.services-header {
         color: #212529;
     }
+
+.services-par {
+    color: #6c757d;
+}
 
 .services-icons {
     background-color: #f4f4f4!important;
@@ -48,6 +64,7 @@ body {
     padding-bottom: 100px!important;
 }
 
+/*----------Pricing----------*/
 
 .pricing {
     background-color: #E6AC55;
@@ -57,8 +74,10 @@ body {
 
 .tier-header {
     color: #17a2b8!important;
-    font-weight: bold;
+    font-size: x-large;
 }
+
+/*----------Contact----------*/
 
 .contact-section {
     padding-top: 30px;
@@ -69,7 +88,6 @@ body {
 
 .company-brand-name {
     color: #17a2b8;
-    font-weight: bold;
     font-size: 40px;
 }
 
