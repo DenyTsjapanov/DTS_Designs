@@ -22,6 +22,11 @@ body {
     font-weight: bold;
 }
 
+#navbar-brand:hover {
+    text-decoration: none;
+    color: #541234;
+}
+
 /*----------Header----------*/
 
 .header-par {
@@ -91,7 +96,35 @@ body {
     font-size: 40px;
 }
 
+#company-brand-name {
+    color: #17a2b8;
+    text-decoration: none;
+}
+
+#company-brand-name:hover {
+    color: #541234;
+}
+
 .contact-details {
     color: #A5929C;
     font-weight: lighter;
+    text-decoration: none!important;
+}
+
+#call {
+    text-decoration: none;
+    color: #A5929C;
+}
+
+#call:hover {
+        color: #CA054D;
+}
+
+#email {
+    text-decoration: none;
+    color: #A5929C;
+}
+
+#email:hover {
+        color: #CA054D;
 }
